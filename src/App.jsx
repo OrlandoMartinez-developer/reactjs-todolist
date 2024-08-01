@@ -2,6 +2,8 @@ function App() {
 
   return (
     <>
+      <Todoinpu />
+      <TodoList />
       
     </>
   )
